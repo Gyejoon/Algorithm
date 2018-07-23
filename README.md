@@ -1,2 +1,2 @@
-# BaekJoonAlgorithm
+# Algorithm
 One Day
